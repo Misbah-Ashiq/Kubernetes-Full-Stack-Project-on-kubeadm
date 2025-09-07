@@ -12,11 +12,14 @@ spec:
       labels:
         app: frontend
     spec:
-      containers:
-        - name: frontend
-          image: misbah/frontend:latest
-          ports:
-            - containerPort: 80
+     containers:
+     - name: frontend
+       image: ahmadali616/frontend11:latest
+       ports:
+       - containerPort: 80
+       env:
+       - name: VITE_BACKEND_URL
+         value: "http://backend:5000"
 
 ---
 apiVersion: v1

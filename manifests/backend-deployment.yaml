@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: misbah/backend:latest
+          image: ahmadali616/frontend:latest
           env:
             - name: DB_HOST
               value: mysql
