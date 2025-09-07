@@ -137,7 +137,8 @@ Look for both master and worker in `Ready` state.
 
 ## Architecture Diagram
 
-![alt text](image.png)
+<img width="889" height="583" alt="image" src="https://github.com/user-attachments/assets/299ea55b-7826-471e-be71-0f23cf5035ae" />
+
 
 ---
 
