@@ -147,6 +147,7 @@ Look for both master and worker in `Ready` state.
 
 **Misbah Ashiq**  
 
+- 📧 Contact: misbahdevops46@gmail.com
 - DockerHub: [ahmadali616](https://hub.docker.com/repositories/ahmadali616)  
 - GitHub: [Misbah-Ashiq](https://github.com/Misbah-Ashiq/Kubernetes-Full-Stack-Project-on-kubeadm.git)
 - Linkedin: [Misbah Ashiq](www.linkedin.com/in/misbah-ashiq-14a0aa356)
